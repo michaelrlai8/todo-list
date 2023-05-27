@@ -42,7 +42,7 @@ const FormContainer = styled.form`
 `;
 
 const Container = styled.div`
-  width: 400px;
+  max-width: 400px;
   margin: auto;
   display: flex;
 `;
