@@ -65,6 +65,7 @@ const Input = styled.input`
 `;
 
 const Button = styled.button`
+  font-size: 16px;
   margin-left: 10px;
   border: none;
   background-color: #dc1a51;
